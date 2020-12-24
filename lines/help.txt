@@ -1,1 +1,0 @@
-1 - Horizontal | 2 - Vertical | 3 - Squares | 4 - Circles | 5 - Grid
